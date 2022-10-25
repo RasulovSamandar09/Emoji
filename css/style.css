@@ -1,0 +1,42 @@
+body{
+    background-color: yellowgreen;
+}
+.emoji{
+    width: 250px;
+    height: 250px;
+}
+.emoji-eye{
+    width:60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+  }
+.eye{
+    height: 25px;
+    width: 25px;
+    align-items: center;
+    margin-left: 16px;
+}
+.mouth{
+    width: 130px;
+    height: 55px;
+    background-color: rgb(138, 90, 2);
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-left:56px;
+    margin-top:30px;
+}
+.emoji1{
+    display: flex;
+    margin-left: 60px;
+    padding-top: 40px;
+}
+.emoji-card {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.emoji-2{
+    margin-right: 50px;
+    margin-left: 50px;
+}
